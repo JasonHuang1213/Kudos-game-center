@@ -1,2 +1,2 @@
 # Kudos-game-center
-My little and humble website
+My game purchasing website
