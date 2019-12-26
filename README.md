@@ -1,2 +1,4 @@
 # Kudos-game-center
-My game purchasing website
+Kudos game center is a game collection website containing various games
+supported by different platforms from PC to playstation.
+
